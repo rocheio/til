@@ -8,8 +8,15 @@ A collection of concise write-ups for something that I learn each day. Idea lovi
 
 ### Categories
 
+* [Git](#git)
 * [Markdown](#markdown)
 * [Python](#python)
+
+---
+
+### Git
+
+- [Change the author of a past commit](git/change_author_of_past_commit.md)
 
 ---
 
