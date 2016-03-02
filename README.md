@@ -11,6 +11,7 @@ A collection of concise write-ups for something that I learn each day. Idea lovi
 * [Git](#git)
 * [Markdown](#markdown)
 * [Python](#python)
+* [Sublime](#sublime)
 
 ---
 
@@ -29,3 +30,9 @@ A collection of concise write-ups for something that I learn each day. Idea lovi
 ### Python
 
 - [Access help and documentation in Bash](python/help_and_documentation_in_bash.md)
+
+---
+
+### Sublime
+
+- [Enable Python Linting and PEP8 Formatting](sublime/enable_python_linting_and_pep8_formatting.md)
