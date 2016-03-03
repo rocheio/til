@@ -23,7 +23,8 @@ A collection of concise write-ups for something that I learn each day. Idea lovi
 
 ### Markdown
 
-- [Do basic things with Markdown](markdown/basics.md)
+- [Escape backticks](markdown/escape_backticks.md)
+- [Markdown basics](markdown/basics.md)
 
 ---
 
@@ -35,4 +36,4 @@ A collection of concise write-ups for something that I learn each day. Idea lovi
 
 ### Sublime
 
-- [Enable Python Linting and PEP8 Formatting](sublime/enable_python_linting_and_pep8_formatting.md)
+- [Enable Python linting and PEP8 formatting](sublime/enable_python_linting_and_pep8_formatting.md)
