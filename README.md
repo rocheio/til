@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-A collection of concise write-ups for something that I learn each day. Idea lovingly stolen from [jbranchaud](https://github.com/jbranchaud/til).
+A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
 ---
 
@@ -31,6 +31,7 @@ A collection of concise write-ups for something that I learn each day. Idea lovi
 ### Python
 
 - [Access help and documentation in Bash](python/help_and_documentation_in_bash.md)
+- [Use abstract base classes to enforce structure](python/abstract_base_classes.md)
 
 ---
 
