@@ -1,16 +1,18 @@
-Access Help and Documentation in Bash
-=====================================
+Access Help and Documentation in the Terminal
+=============================================
 
-While there's nothing wrong with searching [StackOverflow](http://stackoverflow.com/) for help, it is sometimes quicker to access the documentation of the code in question directly. This is especially useful when you do not have access to the internet.
+There's nothing wrong with searching [StackOverflow](http://stackoverflow.com/) for help, but it can be quicker to access the documentation of the code in question directly. This is especially useful when you do not have access to the internet.
 
-In any instance of python, you can use the built-in [`help()`](https://docs.python.org/3/library/functions.html#help) function to display detailed documentation about any python module or function with a docstring. Open the terminal and type `python -i` to use the default Python interactive, or `ipython` to use the IPython interactive (preferred). Usage is simple:
+In any instance of Python, the built-in [`help()`](https://docs.python.org/3/library/functions.html#help) function will display detailed documentation about any Python module or function that has a docstring. 
+
+Open the terminal and type `python -i` to use the default Python interactive, or `ipython` to use the IPython interactive (preferred). Usage is straightforward:
 
 ```python
 import passlib
 help(passlib)
 ```
 
-If the documentation provided is not specific enough for your use, explore the module using the [`dir()`](https://docs.python.org/3/library/functions.html#dir) function, then access `help()` on any sub-modules that are relevant to your search. If calling `help()` returns `TypeError: 'NoneType' object is not iterable`, then there is no documentation available for that object, and you'll need to explore the documentation of parent/sibling/child objects and functions.
+If the top-level documentation is not enough, explore the module further using the [`dir()`](https://docs.python.org/3/library/functions.html#dir) function, then call `help()` on any relevant sub-modules or functions. If calling `help()` returns `TypeError: 'NoneType' object is not iterable`, then there is no documentation available for that object, and you'll need to explore the documentation of parent/sibling/child objects.
 
 ```python
 dir(passlib)
