@@ -19,7 +19,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 - [Access help and documentation in the terminal](git/help_and_documentation.md)
 - [Change the author of a past commit](git/change_author_of_past_commit.md)
-- [View the diff of a staged commit](view_diff_in_staged_commit.md)
+- [View the diff of a staged commit](view_diff_of_staged_commit.md)
 
 ---
 
