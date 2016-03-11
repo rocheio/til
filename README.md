@@ -40,6 +40,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Python
 
 - [Access help and documentation in the terminal](python/help_and_documentation.md)
+- [Assign a list slice to a sequence of any size](python/assign_slice_sequence_any_size.md)
 - [Test for object existence in an iterable](python/test_for_object_existence_in_iterable.md)
 - [Use abstract base classes to enforce structure](python/abstract_base_classes.md)
 
