@@ -9,6 +9,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Categories
 
 * [Git](#git)
+* [Hardware](#hardware)
 * [Markdown](#markdown)
 * [Python](#python)
 * [Sublime](#sublime)
@@ -18,6 +19,12 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Git
 
 - [Change the author of a past commit](git/change_author_of_past_commit.md)
+
+---
+
+### Hardware
+
+- [Test a computer power supply with a paper clip](hardware/test_power_supply_with_paper_clip.md)
 
 ---
 
