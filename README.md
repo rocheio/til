@@ -18,7 +18,9 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 ### Git
 
+- [Access help and documentation in the terminal](git/help_and_documentation.md)
 - [Change the author of a past commit](git/change_author_of_past_commit.md)
+- [View the diff of a staged commit](git/view_diff_of_staged_commit.md)
 
 ---
 
@@ -37,7 +39,8 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 ### Python
 
-- [Access help and documentation in Bash](python/help_and_documentation_in_bash.md)
+- [Access help and documentation in the terminal](python/help_and_documentation.md)
+- [Test for object existence in an iterable](python/test_for_object_existence_in_iterable.md)
 - [Use abstract base classes to enforce structure](python/abstract_base_classes.md)
 
 ---
