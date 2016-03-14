@@ -1,6 +1,8 @@
 Add a Please Command to Retroactively Sudo
 ==========================================
 
+**After further reading, I found that `sudo !!` works even better, and is native**
+
 *from [jpschorr](http://unix.stackexchange.com/a/158480)*
 
 If you find yourself forgetting to use the `sudo` command often, you can add a `please` command that will retroactively `sudo` the last command that you attempted to run.
