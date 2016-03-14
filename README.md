@@ -19,6 +19,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 ### Bash
 
+- [Add a please command to retroactively sudo](bash/please_command_retroactive_sudo.md)
 - [Make terminal auto-complete case-insensitive](bash/make_autocomplete_case_insensitive.md)
 
 ---
