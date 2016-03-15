@@ -14,6 +14,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Markdown](#markdown)
 * [Python](#python)
 * [Sublime](#sublime)
+* [Ubuntu](#ubuntu)
 
 ---
 
@@ -57,3 +58,9 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Sublime
 
 - [Enable Python linting and PEP8 formatting](sublime/enable_python_linting_and_pep8_formatting.md)
+
+---
+
+### Ubuntu
+
+- [Disable a broken input device](ubuntu/disable_broken_input_device.md)
