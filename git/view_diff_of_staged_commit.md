@@ -1,4 +1,4 @@
-View the Differences in a Staged Commit
+View the Differences of a Staged Commit
 =======================================
 
 To view the differences between the last commit and the current working copy, simply use `git diff`.
