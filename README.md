@@ -67,3 +67,4 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Ubuntu
 
 - [Disable a broken input device](ubuntu/disable_broken_input_device.md)
+- [Make a file executable](ubuntu/make_file_executable.md)
