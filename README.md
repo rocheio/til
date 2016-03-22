@@ -50,6 +50,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Python
 
 - [Access help and documentation in the terminal](python/help_and_documentation.md)
+- [Add a script root tag in Flask to support AJAX](python/flask_script_root_tag_ajax.md)
 - [Assign a slice of a sequence to a sequence of any size](python/assign_slice_sequence_any_size.md)
 - [Delete item from a SQLAlchemy database](python/sqlalchemy_delete_item_from_database.md)
 - [Test for object existence in an iterable](python/test_for_object_existence_in_iterable.md)
