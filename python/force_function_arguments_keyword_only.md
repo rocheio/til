@@ -9,8 +9,8 @@ The following function will not work if called positionally:
 ```python
 def greet_names(names, *, greeting='Hello', punctuation='!'):
 	name_string = ' and '.join(names)
-	greeting = ''.join((greeting, ' ', name_string, punctuation))
-	print(greeting)
+	full_greeting = ''.join((greeting, ' ', name_string, punctuation))
+	print(full_greeting)
 
 names = ['Alice', 'Bob']
 
