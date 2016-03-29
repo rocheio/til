@@ -15,6 +15,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Python](#python)
 * [Sublime](#sublime)
 * [Ubuntu](#ubuntu)
+* [Vim](#vim)
 
 ---
 
@@ -71,3 +72,10 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 - [Disable a broken input device](ubuntu/disable_broken_input_device.md)
 - [Make a file executable](ubuntu/make_file_executable.md)
+
+---
+
+### Vim
+
+- [Vim basics](vim/vim_basics.md)
+
