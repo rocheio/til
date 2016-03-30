@@ -70,6 +70,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 ### Ubuntu
 
+- [Automatically mount a disk on startup](ubuntu/auto_mount_disk_on_startup.md)
 - [Disable a broken input device](ubuntu/disable_broken_input_device.md)
 - [Make a file executable](ubuntu/make_file_executable.md)
 
