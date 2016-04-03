@@ -11,6 +11,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Bash](#bash)
 * [Git](#git)
 * [Hardware](#hardware)
+* [JavaScript](#javascript)
 * [Markdown](#markdown)
 * [Python](#python)
 * [Sublime](#sublime)
@@ -38,6 +39,12 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Hardware
 
 - [Test a computer power supply with a paper clip](hardware/test_power_supply_with_paper_clip.md)
+
+---
+
+### JavaScript
+
+- [Use bitwise right shift to round without remainder](javascript/use_bitwise_right_shift_round_no_remainder.md)
 
 ---
 
