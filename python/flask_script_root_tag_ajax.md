@@ -9,7 +9,7 @@ In order to direct calls to the Flask endpoint consistently, whether on developm
 
 ```python
 <script type=text/javascript>
-    SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+    const SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
 </script>
 ```
 
