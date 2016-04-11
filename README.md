@@ -46,6 +46,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 ### JavaScript
 
+- [Make a random hex color using Math](javascript/make_random_hex_color_math.md)
 - [Use bitwise right shift to round without remainder](javascript/use_bitwise_right_shift_round_no_remainder.md)
 
 ---
