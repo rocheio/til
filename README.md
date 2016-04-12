@@ -32,6 +32,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 - [Access help and documentation in the terminal](git/help_and_documentation.md)
 - [Change the author of a past commit](git/change_author_of_past_commit.md)
 - [Reset all work since last fetch](git/reset_all_work_since_last_fetch.md)
+- [View all changes to a file](git/view_all_changes_to_file.md)
 - [View concise history of commits by author](git/view_concise_history_commits_by_author.md)
 - [View the diff of a staged commit](git/view_diff_of_staged_commit.md)
 - [View the URL of a remote origin](git/view_url_remote_origin.md)
