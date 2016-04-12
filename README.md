@@ -34,6 +34,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 - [Reset all work since last fetch](git/reset_all_work_since_last_fetch.md)
 - [View concise history of commits by author](git/view_concise_history_commits_by_author.md)
 - [View the diff of a staged commit](git/view_diff_of_staged_commit.md)
+- [View the URL of a remote origin](git/view_url_remote_origin.md)
 
 ---
 
