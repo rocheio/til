@@ -65,6 +65,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 - [Add a script root tag in Flask to support AJAX](python/flask_script_root_tag_ajax.md)
 - [Assign a slice of a sequence to a sequence of any size](python/assign_slice_sequence_any_size.md)
 - [Delete item from a SQLAlchemy database](python/sqlalchemy_delete_item_from_database.md)
+- [Include non-python files in a pip package](python/include_non_python_files_pip_package.md)
 - [Force function arguments to be keyword only](python/force_function_arguments_keyword_only.md)
 - [Modify the \__init__ method in a subclass](python/modify_init_method_subclass.md)
 - [Test for object existence in an iterable](python/test_for_object_existence_in_iterable.md)
