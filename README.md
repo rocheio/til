@@ -15,6 +15,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Markdown](#markdown)
 * [Python](#python)
 * [Sublime](#sublime)
+* [SQL](#sql)
 * [Ubuntu](#ubuntu)
 * [Vim](#vim)
 
@@ -78,6 +79,12 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Sublime
 
 - [Enable Python linting and PEP8 formatting](sublime/enable_python_linting_and_pep8_formatting.md)
+
+---
+
+### SQL
+
+- [Add a Windows User to a MSSQL Database](sql/add_windows_user_mssql.md)
 
 ---
 
