@@ -72,6 +72,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 - [Modify the \__init__ method in a subclass](python/modify_init_method_subclass.md)
 - [Test for object existence in an iterable](python/test_for_object_existence_in_iterable.md)
 - [Use abstract base classes to enforce structure](python/abstract_base_classes.md)
+- [Use `Lock` when using multithreading](python/use_lock_when_using_multi_threading.md)
 - [Use string interpolation instead of format in logging](python/string_interpolation_instead_of_format_logging.md)
 
 ---
