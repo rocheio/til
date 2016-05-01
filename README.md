@@ -14,6 +14,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [JavaScript](#javascript)
 * [Markdown](#markdown)
 * [Python](#python)
+* [Ruby](#ruby)
 * [Sublime](#sublime)
 * [SQL](#sql)
 * [Ubuntu](#ubuntu)
@@ -74,6 +75,12 @@ A collection of concise write-ups for something that I learn each day. Credit to
 - [Use abstract base classes to enforce structure](python/abstract_base_classes.md)
 - [Use `Lock` when using multithreading](python/use_lock_when_using_multi_threading.md)
 - [Use string interpolation instead of format in logging](python/string_interpolation_instead_of_format_logging.md)
+
+---
+
+### Ruby
+
+- [Getting started with Ruby and Jekyll](ruby/getting_started_ruby_jekyll.md)
 
 ---
 
