@@ -33,6 +33,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 - [Access help and documentation in the terminal](git/help_and_documentation.md)
 - [Change the author of a past commit](git/change_author_of_past_commit.md)
+- [Delete a branch from the origin](git/delete_branch_from_origin.md)
 - [Reset all work since last fetch](git/reset_all_work_since_last_fetch.md)
 - [View all branches by last commit date](git/view_all_branches_last_commit.md)
 - [View all changes to a file](git/view_all_changes_to_file.md)
