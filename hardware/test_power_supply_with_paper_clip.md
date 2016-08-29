@@ -1,5 +1,4 @@
-Test a Computer Power Supply with a Paper Clip
-==============================================
+# Test a Computer Power Supply with a Paper Clip
 
 When a desktop computer will not turn on at all, or is experiencing weird boot cycles[1], one of the first pieces of hardware to check should be the power supply. Here is [the guide](http://dodji.seketeli.com/downloads/shuttle-psu-paper-clip-test.pdf) I used to test my power supply, summarized below:
 

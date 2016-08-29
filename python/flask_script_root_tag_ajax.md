@@ -1,7 +1,6 @@
-Add a Script Root Tag in Flask to Support AJAX
-==============================================
+# Add a Script Root Tag in Flask to Support AJAX
 
-**from the official [Flask documentation](http://flask.pocoo.org/docs/0.10/patterns/jquery/)**
+*from the official [Flask documentation](http://flask.pocoo.org/docs/0.10/patterns/jquery/)*
 
 When building a website with Flask, you'll eventually run into a task that is easier accomplish with JavaScript than with Python[1]. Although the official documentation suggests jQuery, I found it sufficient to just use vanilla JS for the actual `.js` scripts assuming they are small enough.
 

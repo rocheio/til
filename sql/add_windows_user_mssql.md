@@ -1,7 +1,6 @@
-Add a Windows User to a MSSQL Database
-======================================
+# Add a Windows User to a MSSQL Database
 
-**parts of this script are from [Guish](http://stackoverflow.com/a/30512083)**
+*parts of this script are from [Guish](http://stackoverflow.com/a/30512083)*
 
 To add a user to a Microsoft SQL Database, and have them use Windows Active Directory to login, use the following script. Replace the `@username` and `@database` values on lines 6 and 7 with the appropriate values.
 

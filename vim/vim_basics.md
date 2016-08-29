@@ -1,7 +1,6 @@
-Vim Basics
-==========
+# Vim Basics
 
-**from [Yann Esposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)**
+*from [Yann Esposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)*
 
 Vim is lauded as one of the most powerful text editors, and as one of the most popular among high-profile software developers. One of its benefits is its text-driven interface, which is available on almost any terminal or server. Read more at [Wikipedia](https://en.wikipedia.org/wiki/Vim_%28text_editor%29). To install Vim on Ubuntu, use the command `sudo apt-get install vim`.
 
@@ -12,4 +11,3 @@ In Vim, there are two primary modes, 'NORMAL' and 'INSERT'. 'NORMAL' is the mode
 To save and close a document, you need to type `:wq` then hit enter. `:` is the Vim syntax to start entering a command, `w` is the command to save/write a file, and `q` is the command to quit.
 
 To access help about any feature in Vim, type `:help <command>` and hit enter.
-

@@ -1,5 +1,4 @@
-Test for Object Existence in an Iterable
-========================================
+# Test for Object Existence in an Iterable
 
 Combining the built-in [`any`](https://docs.python.org/3/library/functions.html#any) function with [generator expressions](https://docs.python.org/3/reference/expressions.html#generator-expressions) can make a very clean, performant test for object existence in an iterable.
 

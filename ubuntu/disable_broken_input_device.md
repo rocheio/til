@@ -1,5 +1,4 @@
-Disable a Broken Input Device
-=============================
+# Disable a Broken Input Device
 
 If you are having trouble with an input device[1], the following steps will help identify and disable it (assuming you have access to a working keyboard).
 

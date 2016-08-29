@@ -1,9 +1,8 @@
-Access Help and Documentation in the Terminal
-=============================================
+# Access Help and Documentation in the Terminal
 
 There's nothing wrong with searching [StackOverflow](http://stackoverflow.com/) for help, but it can be quicker to access the documentation of the code in question directly. This is especially useful when you do not have access to the internet.
 
-In any instance of Python, the built-in [`help()`](https://docs.python.org/3/library/functions.html#help) function will display detailed documentation about any Python module or function that has a docstring. 
+In any instance of Python, the built-in [`help()`](https://docs.python.org/3/library/functions.html#help) function will display detailed documentation about any Python module or function that has a docstring.
 
 Open the terminal and type `python -i` to use the default Python interactive, or `ipython` to use the IPython interactive (preferred). Usage is straightforward:
 

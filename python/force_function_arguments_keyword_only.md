@@ -1,7 +1,6 @@
-Force Function Arguments to be Keyword-Only
-===========================================
+# Force Function Arguments to be Keyword-Only
 
-**from [PEP 3102](https://www.python.org/dev/peps/pep-3102/)**
+*from [PEP 3102](https://www.python.org/dev/peps/pep-3102/)*
 
 If you are worried that use of a certain function will be prone to errors with positional arguments, you can use an `*` argument to force the following ones to be keyword-only. Note that this only works in Python 3+.
 

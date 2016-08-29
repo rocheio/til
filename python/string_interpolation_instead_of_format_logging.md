@@ -1,7 +1,6 @@
-Use String Interpolation Instead of Format in Logging
-=====================================================
+# Use String Interpolation Instead of Format in Logging
 
-**from [sthenault](http://stackoverflow.com/a/34634301)**
+*from [sthenault](http://stackoverflow.com/a/34634301)*
 
 In Python, the `format` method of a string is executed immediately, regardless of the call to the logger. In contrast, the `%s` *interpolation* syntax will only be executed if it is displayed somewhere.
 

@@ -1,5 +1,4 @@
-Make Terminal Auto-Complete Case-Insensitive
-============================================
+# Make Terminal Auto-Complete Case-Insensitive
 
 *From [bodhi.zazen and mwfearnley](http://askubuntu.com/questions/87061/can-i-make-tab-auto-completion-case-insensitive-in-the-terminal)*
 

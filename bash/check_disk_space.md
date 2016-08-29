@@ -1,5 +1,4 @@
-Check Disk Space
-================
+# Check Disk Space
 
 *From [Girish](http://stackoverflow.com/a/22242107)*
 

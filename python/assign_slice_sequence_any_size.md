@@ -1,5 +1,4 @@
-Assign a List Slice to a Sequence of Any Size
-=============================================
+# Assign a List Slice to a Sequence of Any Size
 
 *from [Effective Python, Page 12](http://www.effectivepython.com/)*
 

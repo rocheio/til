@@ -1,7 +1,6 @@
-View All Changes to a File
-==========================
+# View All Changes to a File
 
-**from [Dan Moulding](http://stackoverflow.com/a/5493663) and [the Git docs](https://git-scm.com/docs/git-reset)**
+*from [Dan Moulding](http://stackoverflow.com/a/5493663) and [the Git docs](https://git-scm.com/docs/git-reset)*
 
 To view the entire history of a file, including renames and merges, use the command `git log --follow -p -- <file>`.
 

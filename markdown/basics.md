@@ -1,5 +1,4 @@
-Markdown Basics
-===============
+# Markdown Basics
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language that is easy to read, write, and parse into HTML and other formats. It was created in 2004 by John Gruber, and as of 2016, is one of the most widely-used formats for discussion technologies like GitHub, Reddit, Stack Exchange, and Slack.
 

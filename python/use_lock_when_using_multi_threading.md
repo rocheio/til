@@ -1,7 +1,6 @@
-Use Lock When Using Multi-threading
-===================================
+# Use Lock When Using Multi-threading
 
-**from [Effective Python](http://www.effectivepython.com/), the best Python book I've read to date**
+*from [Effective Python](http://www.effectivepython.com/), the best Python book I've read to date*
 
 Python has a built-in `threading` module that allows you to establish concurrency in your program. Concurrency is when a program seems to do many things at once, but is still running on a single CPU core and in a shared memory space. Contrast this with parallelism, which is when a program actually runs several things at once, on separate CPU cores, with separate memory spaces.
 

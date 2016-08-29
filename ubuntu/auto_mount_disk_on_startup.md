@@ -1,7 +1,6 @@
-Automatically Mount a Disk on Startup
-=====================================
+# Automatically Mount a Disk on Startup
 
-**from [Mitch](http://askubuntu.com/a/154185)**
+*from [Mitch](http://askubuntu.com/a/154185)*
 
 First, list all the drives that are currently read by your computer with `sudo fdisk -l`. Identify where the device is mounted in the `/dev/` folder, for example `/dev/sdc1`.
 

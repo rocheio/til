@@ -1,5 +1,4 @@
-Modify the \__init__ Method of a Python Subclass
-===============================================
+# Modify the init Method of a Python Subclass
 
 **from [delnan](http://stackoverflow.com/a/5636694)**
 

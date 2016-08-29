@@ -1,7 +1,6 @@
-Remove all files of a certain type
-===================================
+# Remove All Files of a Certain Type
 
-**from [benzittlau](https://gist.github.com/benzittlau/956122)**
+*from [benzittlau](https://gist.github.com/benzittlau/956122)*
 
 If you need to remove all files matching a given type from your git repo, chain commands with `grep`:
 

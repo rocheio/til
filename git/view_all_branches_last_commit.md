@@ -1,7 +1,6 @@
-View all Branches by Last Commit Date
-=====================================
+# View all Branches by Last Commit Date
 
-**from [shweta](http://stackoverflow.com/a/30574636)**
+*from [shweta](http://stackoverflow.com/a/30574636)*
 
 In a large Git repo with many contributors, there will likely come a time when you want to purge unused branches from the origin[1].
 

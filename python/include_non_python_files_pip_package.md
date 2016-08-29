@@ -1,7 +1,6 @@
-Include Non-Python Files in a Pip Package
-=========================================
+# Include Non-Python Files in a Pip Package
 
-**from [Hans L and Anthon](http://stackoverflow.com/a/1857436)**
+*from [Hans L and Anthon](http://stackoverflow.com/a/1857436)*
 
 When deploying files using `pip`, including those referenced in a local or private Git repo, you need to explicitly state any non-python files that you want to include in your build.
 

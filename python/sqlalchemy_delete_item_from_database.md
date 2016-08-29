@@ -1,5 +1,4 @@
-Delete an item from a SQLAlchemy Database
-=========================================
+# Delete an Item from a SQLAlchemy Database
 
 *from [adarsh on StackOverflow](http://stackoverflow.com/questions/27158573/how-to-delete-record-by-id-in-flask-sqlalchemy)*
 

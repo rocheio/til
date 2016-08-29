@@ -1,5 +1,4 @@
-Enable Python Linting and PEP-0008 Formatting in Sublime Text 3
-===============================================================
+# Enable Python Linting and PEP-0008 Formatting in Sublime Text 3
 
 Because [Sublime Text 3](https://www.sublimetext.com/3) has a robust plugin ecosystem and package manager, it is quite easy to turn your favorite text editor into a full-fledged Python IDE.
 

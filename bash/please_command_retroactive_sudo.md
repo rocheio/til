@@ -1,5 +1,4 @@
-Add a Please Command to Retroactively Sudo
-==========================================
+# Add a Please Command to Retroactively Sudo
 
 **After further reading, I found that `sudo !!` works even better, and is native**
 

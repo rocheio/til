@@ -1,5 +1,4 @@
-Getting Started with Ruby and Jekyll
-====================================
+# Getting Started with Ruby and Jekyll
 
 After getting some experience with server-side architecture -- getting a VPS with Linode, serving a static site with Apache, serving a dynamic site with Flask -- I wanted to learn a tool that made the creation of websites easier. I found myself spending lots of time building standard website architecture that could be better spent on making content.
 

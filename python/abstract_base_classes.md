@@ -1,5 +1,4 @@
-Use Abstract Base Classes to Enforce Structure
-==============================================
+# Use Abstract Base Classes to Enforce Structure
 
 Python has a built-in [`abc`](https://docs.python.org/3/library/abc.html) module that makes it easy to enforce standard class structures in a project.
 

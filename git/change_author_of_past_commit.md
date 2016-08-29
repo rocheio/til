@@ -1,5 +1,4 @@
-Change Author of a Past Commit
-==============================
+# Change Author of a Past Commit
 
 As a Git project grows, there will likely be a time when an author commits code from a new computer, forgetting to first configure their name/email to be identical to the name/email used in previous commits.
 

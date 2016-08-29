@@ -1,5 +1,4 @@
-Count Number of Words in a String
-=================================
+# Count Number of Words in a String
 
 To count the number of words in a string (e.g. a section from an article online), pipe together the `echo` and `wc` commands.
 
