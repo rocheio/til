@@ -25,8 +25,8 @@ A collection of concise write-ups for something that I learn each day. Credit to
 ### Bash
 
 - [Add a please command to retroactively sudo](bash/please_command_retroactive_sudo.md)
-- [Check Disk Space][bash/check_disk_space.md]
-- [Count words in string][bash/count_words_in_string.md]
+- [Check Disk Space](bash/check_disk_space.md)
+- [Count words in string](bash/count_words_in_string.md)
 - [Make terminal auto-complete case-insensitive](bash/make_autocomplete_case_insensitive.md)
 
 ---
