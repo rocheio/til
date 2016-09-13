@@ -4,7 +4,7 @@
 
 A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
-**37 posts and counting**
+**38 posts and counting**
 
 ---
 
@@ -30,6 +30,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Count Number of Words in a String](bash/count_words_in_string.md)
 * [Make Terminal Auto-Complete Case-Insensitive](bash/make_autocomplete_case_insensitive.md)
 * [Add a Please Command to Retroactively Sudo](bash/please_command_retroactive_sudo.md)
+* [Print a Specific Line from a File](bash/print_line_in_file.md)
 
 ---
 
