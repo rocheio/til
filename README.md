@@ -4,7 +4,7 @@
 
 A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
-**38 posts and counting**
+**42 posts and counting**
 
 ---
 
@@ -36,11 +36,14 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 ### Git
 
+* [Add Tags to Commit](git/add_tags_to_commit.md)
 * [Change Author of a Past Commit](git/change_author_of_past_commit.md)
 * [Delete a Branch from the Origin](git/delete_branch_from_origin.md)
 * [Access Help and Documentation in the Terminal](git/help_and_documentation.md)
+* [Prune local branches](git/prune_local_branches.md)
 * [Remove All Files of a Certain Type](git/remove_all_files_of_certain_type.md)
 * [Reset all Work Since the Last Fetch](git/reset_all_work_since_last_fetch.md)
+* [Reset Git Tracking on Entire Repo](git/reset_git_tracking.md)
 * [View all Branches by Last Commit Date](git/view_all_branches_last_commit.md)
 * [View All Changes to a File](git/view_all_changes_to_file.md)
 * [View a Concise History of Commits by Author](git/view_concise_history_commits_by_author.md)
@@ -107,6 +110,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 * [Automatically Mount a Disk on Startup](ubuntu/auto_mount_disk_on_startup.md)
 * [Disable a Broken Input Device](ubuntu/disable_broken_input_device.md)
+* [Fit-to-Page Printing](ubuntu/fit_to_page_printing.md)
 * [Make a File Executable from Command Line](ubuntu/make_file_executable.md)
 
 ---
