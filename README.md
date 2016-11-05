@@ -4,7 +4,7 @@
 
 A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
-**42 posts and counting**
+**43 posts and counting**
 
 ---
 
@@ -110,6 +110,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 * [Automatically Mount a Disk on Startup](ubuntu/auto_mount_disk_on_startup.md)
 * [Disable a Broken Input Device](ubuntu/disable_broken_input_device.md)
+* [Make a File Executable from Command Line](ubuntu/display_screen_resolution.md)
 * [Fit-to-Page Printing](ubuntu/fit_to_page_printing.md)
 * [Make a File Executable from Command Line](ubuntu/make_file_executable.md)
 
