@@ -1,4 +1,4 @@
-# Make a File Executable from Command Line
+# Display Screen Resolution
 
 *from [nixCraft](http://www.cyberciti.biz/faq/how-do-i-find-out-screen-resolution-of-my-linux-desktop/)*
 
