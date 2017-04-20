@@ -4,7 +4,7 @@
 
 A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
-**44 posts and counting**
+**45 posts and counting**
 
 ---
 
@@ -32,6 +32,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Add a Please Command to Retroactively Sudo](bash/please_command_retroactive_sudo.md)
 * [Print a Specific Line from a File](bash/print_line_in_file.md)
 * [Create Random Alphanumeric String](bash/random_alphanumeric_string.md)
+* [Size of all folders within a folder](bash/size_of_folders_in_folder.md)
 
 ---
 
