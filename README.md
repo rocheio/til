@@ -4,7 +4,7 @@
 
 A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
-**45 posts and counting**
+**48 posts and counting**
 
 ---
 
@@ -33,11 +33,13 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Print a Specific Line from a File](bash/print_line_in_file.md)
 * [Create Random Alphanumeric String](bash/random_alphanumeric_string.md)
 * [Size of all folders within a folder](bash/size_of_folders_in_folder.md)
+* [Find the Version of a Specific Pip Module](bash/specific_pip_module_version.md)
 
 ---
 
 ### Git
 
+* [Add Multiple Remotes](git/add_multiple_remotes.md)
 * [Add Tags to Commit](git/add_tags_to_commit.md)
 * [Change Author of a Past Commit](git/change_author_of_past_commit.md)
 * [Delete a Branch from the Origin](git/delete_branch_from_origin.md)
@@ -87,6 +89,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Use String Interpolation Instead of Format in Logging](python/string_interpolation_instead_of_format_logging.md)
 * [Test for Object Existence in an Iterable](python/test_for_object_existence_in_iterable.md)
 * [Use Lock When Using Multi-threading](python/use_lock_when_using_multi_threading.md)
+* [Use Whitespace around Keyword Argument Defaults with Type Hints](python/whitespace_default_keyword_arg_type_hints.md)
 
 ---
 
