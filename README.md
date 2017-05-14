@@ -4,7 +4,7 @@
 
 A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
-**48 posts and counting**
+**51 posts and counting**
 
 ---
 
@@ -117,7 +117,10 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Disable a Broken Input Device](ubuntu/disable_broken_input_device.md)
 * [Display Screen Resolution](ubuntu/display_screen_resolution.md)
 * [Fit-to-Page Printing](ubuntu/fit_to_page_printing.md)
+* [Improve Keepass Default Settings](ubuntu/improve_keypass_settings.md)
 * [Make a File Executable from Command Line](ubuntu/make_file_executable.md)
+* [Restore SSH Key from Keepass](ubuntu/restore_ssh_key_from_keepass.md)
+* [See Wireless Adapter Information](ubuntu/see_wireless_adapter_info.md)
 
 ---
 
