@@ -4,7 +4,7 @@
 
 A collection of concise write-ups for something that I learn each day. Credit to [jbranchaud](https://github.com/jbranchaud/til) for the idea.
 
-**51 posts and counting**
+**56 posts and counting**
 
 ---
 
@@ -28,6 +28,7 @@ A collection of concise write-ups for something that I learn each day. Credit to
 
 * [Check Disk Space](bash/check_disk_space.md)
 * [Count Number of Words in a String](bash/count_words_in_string.md)
+* [Grep with Color](bash/grep_with_color.md)
 * [Make Terminal Auto-Complete Case-Insensitive](bash/make_autocomplete_case_insensitive.md)
 * [Add a Please Command to Retroactively Sudo](bash/please_command_retroactive_sudo.md)
 * [Print a Specific Line from a File](bash/print_line_in_file.md)
@@ -85,9 +86,13 @@ A collection of concise write-ups for something that I learn each day. Credit to
 * [Access Help and Documentation in the Terminal](python/help_and_documentation.md)
 * [Include Non-Python Files in a Pip Package](python/include_non_python_files_pip_package.md)
 * [Modify the init Method of a Python Subclass](python/modify_init_method_subclass.md)
+* [Pip Install from a Branch or Subdirectory of a Git Repo](python/pip_install_git_subdirectory.md)
 * [Delete an Item from a SQLAlchemy Database](python/sqlalchemy_delete_item_from_database.md)
 * [Use String Interpolation Instead of Format in Logging](python/string_interpolation_instead_of_format_logging.md)
 * [Test for Object Existence in an Iterable](python/test_for_object_existence_in_iterable.md)
+* [Testing Network Disconnects](python/testing_network_disconnects.md)
+* [Use Coverage.py for Unit Test Coverage](python/use_coverage_for_unit_tests.md)
+* [Use Keyring to Store Sensitive Information](python/use_keyring_for_sensitive_information.md)
 * [Use Lock When Using Multi-threading](python/use_lock_when_using_multi_threading.md)
 * [Use Whitespace around Keyword Argument Defaults with Type Hints](python/whitespace_default_keyword_arg_type_hints.md)
 
